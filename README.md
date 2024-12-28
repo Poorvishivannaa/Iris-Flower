@@ -18,7 +18,7 @@ Matplotlib
 ### Model Training
 The code for training the classification models can be found in the iris_classification.ipynb Jupyter Notebook. Three different models are trained:
 
-Support Vector Machine (SVM)
+RandomForestClassifier
 
 Logistic Regression
 
